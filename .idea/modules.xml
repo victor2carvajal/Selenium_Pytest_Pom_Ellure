@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Selenium_Python_POM.iml" filepath="$PROJECT_DIR$/Selenium_Python_POM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenium_Unittest_POM_Allure_Py.iml" filepath="$PROJECT_DIR$/Selenium_Unittest_POM_Allure_Py.iml" />
     </modules>
   </component>
 </project>
